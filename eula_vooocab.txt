@@ -1,0 +1,160 @@
+VOOOCAB End User License Agreement (EULA)
+VOOOCAB 最终用户许可协议
+
+Effective Date: December 17, 2025
+Last Updated: December 17, 2025
+
+生效日期：2025年12月17日
+最新更新日期：2025年12月17日
+
+Welcome to VOOOCAB (hereinafter referred to as the "Software" or "Application"). The Software is developed and operated by [Chunxiang Wang] (hereinafter referred to as "we," "us," or "Developer").
+欢迎您使用 VOOOCAB（以下简称“本软件”或“本应用”）。本软件由 [Chunxiang Wang]（以下简称“我们”或“开发者”）开发并运营。
+
+IMPORTANT - READ CAREFULLY: This End User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity, hereinafter "You") and the developer/owner of VOOOCAB ("Licensor") for the VOOOCAB software product, which includes computer software and may include associated media, printed materials, and "online" or electronic documentation ("Software").
+重要提示 - 请仔细阅读：本最终用户许可协议（“EULA”）是您（个人或单一实体，以下简称“您”）与 VOOOCAB 开发者/所有者（“许可方”）之间关于 VOOOCAB 软件产品（包括计算机软件，并可能包括相关媒体、印刷材料以及“在线”或电子文档，统称“软件”）的合法协议。
+
+BY INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS EULA. IF YOU DO NOT AGREE TO THE TERMS OF THIS EULA, DO NOT INSTALL OR USE THE SOFTWARE. IF YOU ARE UNDER THE LEGAL AGE OF MAJORITY IN YOUR JURISDICTION, YOU MUST HAVE YOUR PARENT OR LEGAL GUARDIAN READ AND AGREE TO THIS EULA ON YOUR BEHALF BEFORE USING THE SOFTWARE.
+通过安装、复制或以其他方式使用本软件，即表示您同意受本 EULA 条款的约束。如果您不同意本 EULA 的条款，请勿安装或使用本软件。如果您未达到所在司法管辖区的法定成年年龄，您必须在您的父母或法定监护人代您阅读并同意本 EULA 的情况下使用本软件。
+
+1. GRANT OF LICENSE / 许可授予
+
+Subject to your compliance with the terms and conditions of this EULA, Licensor grants you a limited, non-exclusive, non-transferable, non-sublicensable, and revocable license to install and use the Software.
+在您遵守本 EULA 条款和条件的前提下，许可方授予您有限的、非排他性的、不可转让的、不可分许可且可撤销的权利来安装和使用本软件。
+(a) Paid Versions: If you purchased the Software through a digital storefront, your license is subject to the usage rules and terms of service of that respective storefront.
+    付费版本：如果您通过数字商店购买了本软件，您的许可将受该商店的使用规则和服务条款的约束。
+(b) Free Version: If you obtained the free version of the Software, you are granted a license to use the Software strictly for personal, non-commercial, or educational purposes, subject to the restrictions herein. Commercial use of the Software itself (e.g., using the Software within a corporate environment) is prohibited. However, creating content (such as reviews, tutorials, and reports) about the Software that generates advertising or platform revenue is permitted and does not constitute prohibited commercial use.
+    免费版本：如果您获取了本软件的免费版本，您被授予严格出于个人、非商业或教育目的使用本软件的许可，但须遵守本文规定的限制。禁止对本软件本身进行商业使用（例如在企业环境中使用本软件）。但是，创作关于本软件的内容（如测评、教程和报告）并由此获得广告或平台流量收益是允许的，不构成被禁止的商业使用。
+
+2. RESTRICTIONS / 限制
+   You shall not, and shall not permit any third party to:
+   您不得，也不得允许任何第三方：
+(a) Reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code of the Software, except to the extent applicable law expressly permits such activity.
+    对本软件进行逆向工程、反编译、反汇编或以其他方式尝试发现本软件的源代码，除非适用法律明确允许此类活动。
+(b) Modify, translate, adapt, or create derivative works based on the Software.
+    修改、翻译、改编本软件或基于本软件创建衍生作品。
+(c) Rent, lease, lend, sell, redistribute, or sublicense the Software.
+    出租、租赁、出借、出售、重新分发或分许可本软件。
+(d) Remove, alter, or obscure any proprietary notices, labels, or marks from the Software.
+    移除、更改或掩盖本软件上的任何所有权声明、标签或标记。
+(e) Use the Software for any illegal, fraudulent, or unauthorized purpose.
+    将本软件用于任何非法、欺诈或未经授权的目的。
+
+3. THIRD-PARTY AI SERVICES AND API KEYS / 第三方 AI 服务与 API 密钥
+(a) The Software acts as a client interface that requires you to provide your own Application Programming Interface (API) keys from third-party Artificial Intelligence (AI) service providers (e.g., DeepSeek, Qwen, etc.) to generate content.
+    本软件作为一个客户端界面，需要您提供来自第三方人工智能（AI）服务提供商（如 DeepSeek、Qwen 等）的应用程序编程接口（API）密钥以生成内容。
+(b) API Costs and Monitoring: You are solely responsible for obtaining, maintaining, and securing your API keys. The pricing, billing methods, and any price fluctuations for API usage are entirely determined by the third-party AI service providers, not by Licensor. You must proactively review the pricing and terms of your chosen provider before use. The Software does NOT track, display, or monitor your token usage or API costs. You are solely responsible for monitoring your own usage and expenses through the balance or dashboard provided by your third-party AI service provider. Licensor assumes no liability for any unexpected fees, charges, or usage limits incurred through your API keys.
+    API 费用与监控：您全权负责获取、维护和保护您的 API 密钥。API 使用的定价、计费方式及任何价格波动完全由第三方 AI 服务提供商决定，与许可方无关。您必须在使用前主动查阅您所选提供商的定价说明和条款。本软件不追踪、不显示也不监控您的 Token 使用量或 API 费用。您必须自行通过第三方 AI 服务提供商提供的余额或后台系统来监控自己的使用情况和费用。许可方对通过您的 API 密钥产生的任何意外费用、收费或使用限制不承担任何责任。
+(c) Licensor is not affiliated with these third-party AI providers. Licensor does not guarantee the availability, accuracy, or reliability of these third-party services.
+    许可方与这些第三方 AI 提供商没有任何关联。许可方不保证这些第三方服务的可用性、准确性或可靠性。
+(d) AI-Generated Content Disclaimer: Content generated by AI models may be inaccurate, incomplete, offensive, or infringe upon third-party rights. Licensor assumes no liability whatsoever for any content generated through the Software using third-party APIs. Licensor is not responsible for any suspension, termination, or banning of your third-party API accounts resulting from your use of the Software, including but not limited to the prompts you input or the frequency of API calls.
+    AI 生成内容免责声明：由 AI 模型生成的内容可能不准确、不完整、具有冒犯性或侵犯第三方权利。许可方对使用第三方 API 通过本软件生成的任何内容不承担任何责任。对于因您使用本软件（包括但不限于您输入的提示词或 API 调用频率）而导致您的第三方 API 账户被暂停、终止或封禁，许可方概不负责。
+(e) Vocabulary Lists and Content Disclaimer: The Software provides various pre-packaged vocabulary lists (including but not limited to IELTS, TOEFL, GRE, BEC, CET-4, CET-6, TEM-4, TEM-8, Gaokao, etc.) for your convenience. These lists are independently compiled from public sources and are provided for general reference and educational purposes only. These lists are NOT official study materials and have NOT been reviewed, approved, or endorsed by any official testing organization or trademark owner. Licensor makes no representations or warranties regarding the accuracy, completeness, or suitability of these vocabulary lists for any specific exam, curriculum, or personal goal. The scope of words may not perfectly align with official exam syllabuses. Furthermore, you acknowledge that the English language contains regional variations (e.g., British vs. American English spelling and usage), and the Software or AI-generated content may contain typographical errors, spelling mistakes, or inaccurate translations/explanations. The AI models you connect to may also produce incorrect, misleading, or inconsistent feedback. You acknowledge and agree that your reliance on these vocabulary lists and any AI-generated content is strictly at your own risk. Licensor shall not be held liable for any academic outcomes, exam failures, misunderstandings, or any direct or indirect damages resulting from the use of or reliance on the Software's content or AI feedback.
+    词汇表及内容免责声明：本软件为了您对学习范围的直观理解，提供了各种预置的词汇表（包括但不限于 IELTS, TOEFL, GRE, BEC, CET-4, CET-6, TEM-4, TEM-8, 高考英语词汇等）仅供一般参考目的使用。这些词汇表是基于公共渠道独立汇编而成，并非官方考试材料，且未经任何官方考试机构或商标所有者的审阅、批准或认可。许可方不对这些词汇表的准确性、完整性或针对任何特定考试、课程或个人目标的适用性作出任何声明或保证。词汇的范围可能无法与官方考试大纲完全吻合。此外，您承认英语存在地域差异（例如英式英语与美式英语在拼写和用法上的不同），且本软件或 AI 生成的内容可能包含排版错误、拼写错误或不准确的翻译/解释。您连接的 AI 模型也可能产生错误、误导性或不一致的反馈。您承认并同意，您对这些词汇表及任何 AI 生成内容的依赖完全由您自行承担风险。对于因使用或依赖本软件内容或 AI 反馈而导致的任何学业结果、考试失利、理解偏差或任何直接或间接的损害，许可方概不负责。
+
+4. USER-GENERATED CONTENT & COPYRIGHT / 用户生成内容与版权
+(a) Subject to the license restrictions in Section 1(b), you retain all ownership rights to the User Content (e.g., vocabulary lists, PDF documents) you create using the Software, to the extent permitted by applicable law. Licensor claims no ownership over your User Content.
+    在受限于第 1(b) 条许可限制的前提下，在适用法律允许的范围内，您保留对使用本软件创建的用户内容（如词汇表、PDF 文档）的所有所有权。许可方不对您的用户内容主张任何所有权。
+(b) You acknowledge that copyright protection for AI-generated content is subject to ongoing legal developments globally. Licensor makes no representations or warranties that the content you generate using the Software is eligible for copyright protection.
+    您承认，全球范围内对 AI 生成内容的版权保护受制于不断发展的法律。许可方不声明或保证您使用本软件生成的内容符合版权保护的条件。
+(c) You are solely responsible for the legality, appropriateness, and non-infringement of your User Content.
+    您对您的用户内容的合法性、适当性和非侵权性承担全部责任。
+(d) Distribution Restrictions: As a condition of your license to use the Software, you agree that any save files/project files produced by the Software, as well as any text, data, exported files (e.g., PDFs), and printed physical materials derived from it, shall be strictly for your personal, individual use only. Except for limited excerpts used strictly for the purpose of software reviews, tutorials, and reports (Fair Use), you are expressly prohibited from distributing, publishing, broadcasting, or making these produced, exported, or printed materials available to others in their entirety or as standalone resources (whether for commercial gain or for free) on any platforms, websites, or physical channels. You acknowledge that you bear all legal responsibilities and compliance risks for any unauthorized sharing, distribution, or publication of such materials.
+    传播限制：作为您获得本软件使用许可的条件，您同意通过本软件产生的任何存档文件/项目文件，以及导出的任何文本、数据、文件（如 PDF）和打印后的实体材料，严格且仅供您个人单独使用。除严格用于软件测评、教程和报告目的的有限节选展示（合理使用）外，明确禁止您在任何平台、网站或实体渠道上完整地或作为独立资源分发、出版、广播或向他人提供这些产生、导出或打印的材料（无论是否为了商业利益）。您承认，若您未经授权分享、传播或出版此类材料，您需自行承担由此产生的所有法律责任与合规风险。
+
+5. DATA BACKUP / 数据备份
+   The Software may experience bugs, crashes, or other issues that could result in the loss of your data or User Content. You are solely responsible for regularly backing up your data and User Content. Licensor shall not be liable for any loss or corruption of data.
+   本软件可能会出现错误、崩溃或其他可能导致您的数据或用户内容丢失的问题。您全权负责定期备份您的数据和用户内容。许可方对任何数据的丢失或损坏不承担任何责任。
+
+6. INDEMNIFICATION / 赔偿
+   You agree to indemnify, defend, and hold harmless Licensor, its affiliates, and its respective officers, directors, and employees from and against any and all claims, liabilities, damages, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising from your use of the Software, your violation of this EULA, or your infringement of any third-party rights, including but not limited to intellectual property rights related to the content you generate.
+   您同意赔偿、辩护并使许可方、其附属公司及其各自的高管、董事和员工免受因您使用本软件、违反本 EULA 或侵犯任何第三方权利（包括但不限于与您生成的内容相关的知识产权）而引起的任何及所有索赔、责任、损害、损失、成本、费用或收费（包括合理的律师费）。
+
+7. INTELLECTUAL PROPERTY RIGHTS & THIRD-PARTY COMPONENTS / 知识产权与第三方组件
+(a) The Software is licensed, not sold. The core Software is closed-source. All title, ownership rights, and intellectual property rights in and to the Software remain the sole property of the Licensor.
+    本软件是授权使用，而非出售。核心软件为闭源软件。本软件的所有所有权和知识产权均归许可方独家所有。
+(b) The Software includes third-party open-source software and components. These components are governed by their respective licenses, which are detailed in the "third_party_licenses_vooocab.txt" file included with the Software. In the event of a conflict between this EULA and any open-source license regarding the respective open-source component, the open-source license shall prevail.
+    本软件包含第三方开源软件和组件。这些组件受其各自的许可证管辖，详细信息请参阅本软件随附的“third_party_licenses_vooocab.txt”文件。如果本 EULA 与任何开源许可证就相应的开源组件发生冲突，应以开源许可证为准。
+
+8. PRIVACY AND DATA PROCESSING / 隐私与数据处理
+   The Software processes your data (including API keys and prompts) locally on your device. API keys and prompts are transmitted directly to the third-party AI providers you choose. Licensor does not actively collect, store, or transmit your API keys, generated content, telemetry data, or crash reports to Licensor's servers. However, if you obtain the Software through a third-party distribution platform, such platforms may collect anonymized usage statistics according to their own policies, which Licensor may access. All core data processing occurs locally as detailed in the Privacy Policy. Please refer to the "privacy_policy_vooocab.txt" for more details.
+   本软件在您的设备本地处理您的数据（包括 API 密钥和提示词）。API 密钥和提示词直接传输给您选择的第三方 AI 提供商。许可方不会主动收集、存储或将您的 API 密钥、生成的内容、遥测数据或崩溃报告传输至许可方的服务器。但是，如果您通过第三方分发平台获取本软件，这些平台可能会根据其自身政策收集匿名的使用统计数据，许可方可能会访问这些汇总数据。所有核心数据处理均在本地进行，详情请参阅隐私政策。详情请参阅“privacy_policy_vooocab.txt”。
+
+9. DISCLAIMER OF WARRANTIES / 免责声明
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, UNINTERRUPTED, SECURE, OR THAT IT WILL FUNCTION WITH ANY SPECIFIC THIRD-PARTY API. THE SOFTWARE IS NOT INTENDED FOR USE IN HIGH-RISK ACTIVITIES.
+   本软件按“原样”和“可用”状态提供，不提供任何形式的明示或暗示的保证，包括但不限于适销性、特定用途适用性和非侵权性的保证。许可方不保证本软件将无错误、不中断、安全，或能与任何特定的第三方 API 配合使用。本软件不适用于高危活动。
+
+10. LIMITATION OF LIABILITY / 责任限制
+    TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, DATA LOSS, OR API USAGE FEES) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT SHALL LICENSOR'S TOTAL LIABILITY TO YOU EXCEED THE AMOUNT ACTUALLY PAID BY YOU FOR THE SOFTWARE, OR FIVE US DOLLARS ($5.00) IF YOU OBTAINED THE SOFTWARE FOR FREE.
+    在适用法律允许的最大范围内，在任何情况下，许可方均不对因使用或无法使用本软件而引起的任何特殊的、偶然的、间接的、惩罚性的或后果性的损害（包括但不限于商业利润损失、业务中断、数据丢失或 API 使用费用的损害）负责，即使许可方已被告知发生此类损害的可能性。在任何情况下，许可方对您的总责任不应超过您为本软件实际支付的金额；如果您免费获取了本软件，则责任上限为五美元（$5.00）。
+
+11. EXPORT CONTROL / 出口管制
+    You represent and warrant that you will comply with all applicable local and international export control and trade sanctions laws and regulations. You represent that you are not located in a country that is subject to a U.S. or other applicable government embargo, and that you are not listed on any government list of prohibited or restricted parties.
+    您声明并保证您将遵守所有适用的本地和国际出口管制及贸易制裁法律法规。您声明您不在受美国或其他适用政府禁运的国家/地区，并且您未被列入任何政府的禁止或限制方名单。
+
+12. PLATFORM-SPECIFIC TERMS / 平台特定条款
+(a) Apple Devices: If you downloaded the Software from an Apple-authorized platform, the following terms apply:
+    Apple 设备：如果您从 Apple 授权的平台下载了本软件，则适用以下条款：
+i.  Acknowledgment: This EULA is concluded between you and Licensor only, not with Apple Inc. ("Apple"). Licensor is solely responsible for the Software.
+    确认：本 EULA 仅在您与许可方之间达成，而非与 Apple Inc.（“Apple”）达成。许可方对本软件承担全部责任。
+ii. Scope of License: The license granted to you is limited to a non-transferable license to use the Software on any Apple-branded Products that you own or control and as permitted by the Usage Rules set forth in the Apple Media Services Terms and Conditions.
+    许可范围：授予您的许可仅限于在您拥有或控制的任何 Apple 品牌产品上，并按照 Apple 媒体服务条款和条件中规定的使用规则使用本软件的不可转让许可。
+iii. Maintenance and Support: Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the Software.
+     维护和支持：Apple 没有任何义务就本软件提供任何维护和支持服务。
+iv. Warranty: In the event of any failure of the Software to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for the Software to you; and, to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the Software.
+    保证：如果本软件未能符合任何适用的保证，您可以通知 Apple，Apple 将向您退还本软件的购买价格；并且，在适用法律允许的最大范围内，Apple 对本软件不承担任何其他保证义务。
+v. Product Claims: Licensor, not Apple, is responsible for addressing any claims by you or any third party relating to the Software, including product liability claims, failure to conform to legal requirements, and consumer protection claims.
+   产品索赔：许可方（而非 Apple）负责处理您或任何第三方与本软件相关的任何索赔，包括产品责任索赔、未能符合法律要求的索赔以及消费者保护索赔。
+vi. Intellectual Property Rights: In the event of any third-party claim that the Software infringes that third party's intellectual property rights, Licensor, not Apple, will be solely responsible for the investigation, defense, settlement and discharge of any such claim.
+    知识产权：如果任何第三方声称本软件侵犯了该第三方的知识产权，许可方（而非 Apple）将全权负责对此类索赔的调查、辩护、和解和解除。
+vii. Legal Compliance: You represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a "terrorist supporting" country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
+     法律合规性：您声明并保证 (i) 您不在受美国政府禁运的国家/地区，或被美国政府指定为“支持恐怖主义”的国家/地区；并且 (ii) 您未被列入任何美国政府的禁止或限制方名单。
+viii. Third-Party Beneficiary: You and Licensor acknowledge and agree that Apple, and Apple's subsidiaries, are third-party beneficiaries of this EULA, and that, upon your acceptance of the terms and conditions of this EULA, Apple will have the right (and will be deemed to have accepted the right) to enforce this EULA against you as a third-party beneficiary thereof.
+      第三方受益人：您与许可方承认并同意，Apple 及其子公司是本 EULA 的第三方受益人，并且在您接受本 EULA 的条款和条件后，Apple 将有权（并被视为已接受该权利）作为第三方受益人对您执行本 EULA。
+
+(b) Other Digital Storefronts: If you acquired the Software via other third-party digital storefronts, your use of the Software is subject to the respective storefront's subscriber agreement or terms of service. In the event of any conflict between this EULA and the storefront's agreement, the storefront's agreement shall prevail.
+    其他数字商店：如果您通过其他第三方数字商店获取了本软件，您对本软件的使用受该商店的订户协议或服务条款的约束。如果本 EULA 与该商店的协议之间存在任何冲突，以该商店的协议为准。
+
+13. TERMINATION AND UPDATES / 终止与更新
+(a) This EULA is effective until terminated. Your rights under this EULA will terminate automatically without notice if you fail to comply with any term(s). Upon termination, you must cease all use of the Software and destroy all copies.
+    本 EULA 在终止前有效。如果您未能遵守任何条款，您在本 EULA 下的权利将自动终止，恕不另行通知。终止后，您必须停止使用本软件并销毁所有副本。
+(b) Licensor reserves the right to modify this EULA or update the Software at any time. Continued use of the Software after such modifications constitutes your acceptance of the revised terms. The Software may automatically communicate with Licensor's servers or third-party platforms to check for, download, and install updates. You consent to such automatic updating.
+    许可方保留随时修改本 EULA 或更新本软件的权利。在此类修改后继续使用本软件即表示您接受修订后的条款。本软件可能会自动与许可方的服务器或第三方平台通信，以检查、下载并安装更新。您同意此类自动更新。
+(c) Mandatory Updates: You are responsible for proactively updating the Software to the latest version. Licensor shall not be held liable for any software malfunctions, API connection failures, or other issues resulting from your use of an outdated version of the Software.
+    强制更新：您有责任主动将本软件升级到最新版本。如果因为您未升级（使用旧版本）导致软件无法使用、API 接口失效或其他任何问题，许可方概不负责。
+(d) Survival: Sections 2, 3(d), 4, 5, 6, 7, 9, 10, 14, and 15 shall survive any termination of this EULA.
+    条款存续：第 2、3(d)、4、5、6、7、9、10、14 和 15 条在本 EULA 终止后继续有效。
+
+14. GOVERNING LAW AND DISPUTE RESOLUTION / 管辖法律与争议解决
+(a) This EULA shall be governed by and construed in accordance with the laws of the People's Republic of China, without regard to its conflict of law principles. If you are a consumer residing in the European Union, the United States, or other jurisdictions with mandatory consumer protection laws, this governing law and jurisdiction clause shall not deprive you of any mandatory statutory rights or protections under the laws of your country of residence.
+    本 EULA 应受中华人民共和国法律管辖并按其解释，不考虑其冲突法原则。如果您是居住在欧盟、美国或其他具有强制性消费者保护法管辖区的消费者，本管辖法律和管辖权条款不得剥夺您根据居住国法律享有的任何强制性法定权利或保护。
+(b) For users residing in the People's Republic of China, any dispute arising out of or in connection with this EULA shall be subject to the exclusive jurisdiction of the competent courts in the People's Republic of China. For users residing outside the People's Republic of China, any dispute may be resolved in the competent courts of your country of residence, or through binding arbitration if required by local law.
+    对于居住在中华人民共和国境内的用户，因本 EULA 引起的或与本 EULA 相关的任何争议，应提交至中华人民共和国有管辖权的法院专属管辖。对于居住在中华人民共和国境外的用户，任何争议可在您居住国的有管辖权的法院解决，或在当地法律要求的情况下通过有约束力的仲裁解决。
+(c) Class Action Waiver: Any dispute resolution proceedings will be conducted only on an individual basis and not in a class, consolidated, or representative action.
+    集体诉讼豁免：任何争议解决程序只能以个人名义进行，不得以集体、合并或代表诉讼的形式进行。
+
+15. MISCELLANEOUS / 其他条款
+(a) Severability: If any provision of this EULA is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+    可分割性：如果本 EULA 的任何条款被认定为无效或不可执行，其余条款应继续完全有效。
+(b) Language: This EULA is written in both English and Chinese. In the event of any discrepancy or conflict between the two versions, the Chinese version shall prevail.
+    语言效力：本 EULA 以中英双语书写。如果两个版本之间存在任何差异或冲突，应以中文版本为准。
+(c) Entire Agreement: This EULA constitutes the entire agreement between you and Licensor regarding the Software.
+    完整协议：本 EULA 构成您与许可方之间关于本软件的完整协议。
+
+
+16. TRADEMARK DISCLAIMER / 商标免责声明
+
+(a) Ownership of Trademarks: All product names, logos, brands, and other trademarks or registered trademarks featured or referred to within the Software (including but not limited to "IELTS", "TOEFL", "GRE", "BEC", "CET-4", "CET-6", "TEM-4", "TEM-8", "DeepSeek", "Qwen", etc.) are the property of their respective trademark holders.
+    商标所有权：本软件中出现或提及的所有产品名称、徽标、品牌及其他商标或注册商标（包括但不限于 "IELTS", "TOEFL", "GRE", "BEC", "CET-4", "CET-6", "TEM-4", "TEM-8", "DeepSeek", "Qwen" 等）均为其各自商标持有人的财产。
+(b) Non-Affiliation: The Licensor and the Software are NOT affiliated with, sponsored by, endorsed by, or authorized by any of these trademark holders or their respective testing organizations (including but not limited to the University of Cambridge, Educational Testing Service (ETS), Graduate Management Admission Council (GMAC), College Board, DeepSeek, Qwen, Alibaba, etc.).
+    非关联性声明：许可方及本软件与上述任何商标持有人或其各自的考试机构（包括但不限于剑桥大学、美国教育考试服务中心 (ETS)、研究生入学管理委员会 (GMAC)、美国大学理事会 (College Board) 、深度求索（Deepseek）、千问（Qwen）、阿里巴巴（Alibaba）, 等）均无任何隶属、赞助、背书或授权关系。
+(c) Nominative Fair Use: Any use of these trademarks within the Software is strictly for nominative fair use purposes—specifically, to objectively describe the intended educational scope or compatibility of the vocabulary lists provided. Such use does not imply any association with the trademark owners.
+    名义性合理使用：本软件中对这些商标的任何使用均严格出于名义性合理使用目的，即仅为了客观描述所提供词汇表的预期教育范围。此类使用并不暗示与商标所有者有任何关联。
+(d) No Endorsement: The use of these names does not indicate any endorsement of the Software by the trademark owners, nor does it indicate any endorsement of the trademark owners' products or services by the Licensor.
+    无背书声明：使用这些名称并不表示商标所有者对本软件的任何背书，也不表示许可方对商标所有者的产品或服务的任何背书。
+
+17. CONTACT INFORMATION / 联系信息
+
+If you have any questions, complaints, or claims with respect to the Software or this EULA, please contact the Licensor at:
+如果您对本软件或本 EULA 有任何疑问、投诉或索赔，请通过以下方式联系许可方：
+
+Email / 电子邮箱: Voooooocab@gmail.com

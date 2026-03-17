@@ -1,0 +1,50 @@
+VOOOCAB 简明软件授权说明 (Summary Software License Agreement)
+
+Effective Date: December 17, 2025
+生效日期：2025年12月17日
+
+IMPORTANT NOTICE / 重要提示：
+This document is a summary of the license terms for VOOOCAB. For the complete legal rights, obligations, disclaimers, limitations of liability, and dispute resolution procedures, you MUST refer to the VOOOCAB End User License Agreement (EULA) and Privacy Policy. In the event of any conflict or inconsistency between this document and the EULA or Privacy Policy, the EULA and Privacy Policy shall strictly prevail.
+本文件仅为 VOOOCAB 授权条款的简明摘要。关于完整的法律权利、义务、免责声明、责任限制及争议解决程序，您必须参阅 VOOOCAB《最终用户许可协议 (EULA)》及《隐私政策》。如本文件与 EULA 或《隐私政策》存在任何冲突或不一致，严格以 EULA 和《隐私政策》为准。
+
+1. GRANT OF LICENSE / 许可的授予
+   Subject to your compliance with the EULA, Licensor grants you a limited, non-exclusive, non-transferable, non-sublicensable, and revocable license to use the Software.
+   在您遵守 EULA 的前提下，许可方授予您一项有限的、非排他性的、不可转让的、不可分许可且可撤销的使用许可。
+
+(a) Paid Versions (Authorized Digital Storefronts) / 付费版本：
+    Your license is subject to the usage rules and terms of service of that respective storefront. Any save files/project files produced by the Software, as well as any text, data, exported files (e.g., PDFs), and printed physical materials derived from it, are strictly for your personal, individual use only. Any form of distribution, publication, or public sharing of these materials as standalone resources is strictly prohibited. (Note: Limited display for the purpose of software reviews, tutorials, and reports is permitted under Fair Use).
+    您的许可受相关数字商店的使用规则和服务条款约束。通过本软件产生的任何存档文件/项目文件，以及导出的任何文本、数据、文件（如 PDF）和打印后的实体材料，严格且仅供您个人单独使用。严禁将这些材料作为独立资源进行任何形式的分发、出版或公开共享。（注：出于软件测评、教程和报告目的的有限展示属于合理使用，是被允许的）。
+
+(b) Free Version (Authorized Open Source Platforms) / 免费版本：
+    You are authorized to use the Software strictly for personal, non-commercial, or educational purposes. Commercial use of the Software or monetization of any generated content is absolutely prohibited. (Note: Earning platform revenue from creating review, tutorial, and report videos or articles about the Software is permitted). Any save files/project files produced by the Software, as well as any text, data, exported files (e.g., PDFs), and printed physical materials derived from it, are strictly for your personal, individual use only. Any form of distribution, publication, or public sharing of these materials as standalone resources (whether for commercial gain or for free) is strictly prohibited. (Note: Limited display for the purpose of software reviews, tutorials, and reports is permitted under Fair Use).
+    您仅被授权将本软件严格用于个人、非商业或教育目的。绝对禁止将本软件用于商业用途或对任何生成内容进行变现。（注：通过创作关于本软件的测评、教程和报告视频或文章而获得平台流量收益是允许的）。通过本软件产生的任何存档文件/项目文件，以及导出的任何文本、数据、文件（如 PDF）和打印后的实体材料，严格且仅供您个人单独使用。严禁将这些材料作为独立资源进行任何形式的分发、出版或公开共享（无论是否为了商业利益）。（注：出于软件测评、教程和报告目的的有限展示属于合理使用，是被允许的）。
+
+2. STRICT RESTRICTIONS / 严格的限制
+   You shall not, and shall not permit any third party to:
+   您不得，也不得允许任何第三方进行以下行为：
+- Reverse engineer, decompile, or disassemble the Software. / 对本软件进行逆向工程、反编译或反汇编。
+- Modify, adapt, or create derivative works. / 修改、改编或创作衍生作品。
+- Rent, lease, sell, redistribute, or sublicense the Software. / 出租、租赁、出售、重新分发或分许可本软件。
+- Use the Software for any illegal or unauthorized purpose. / 将本软件用于任何非法或未经授权的目的。
+
+3. THIRD-PARTY AI SERVICES & COSTS / 第三方 AI 服务与费用
+   The Software is a local client tool requiring your own third-party AI API keys. You are solely responsible for your API keys, the content generated, and any associated API costs. API pricing is determined by third-party providers. The Software does not track token usage; you must monitor your own expenses. Licensor assumes no liability for the accuracy, legality, or copyright eligibility of AI-generated content, nor for any API account suspension, banning, or unexpected fees resulting from your usage.
+   本软件为本地客户端工具，需要您自行提供第三方 AI API 密钥。您对您的 API 密钥、生成的内容以及任何相关的 API 费用承担全部责任。API 定价由第三方提供商决定。本软件不追踪 Token 使用量；您必须自行监控您的费用。许可方对 AI 生成内容的准确性、合法性或版权资格不承担任何责任，对因使用导致的任何 API 账号暂停、封禁或意外费用亦不承担责任。
+
+4. VOCABULARY & CONTENT DISCLAIMER / 词汇及内容免责
+   The pre-packaged vocabulary lists (e.g., IELTS, TOEFL, GRE, BEC, CET-4, CET-6, TEM-4, TEM-8, Gaokao, etc.) and AI-generated content are for reference only. These lists are independently compiled and are NOT official study materials, nor are they endorsed by any trademark owners. All trademarks (e.g., "IELTS", "TOEFL", "GRE") are the property of their respective holders; VOOOCAB is NOT affiliated with or authorized by these holders. The lists may contain spelling errors, regional variations, or AI inaccuracies. Licensor does not guarantee their accuracy or alignment with official exams and is not liable for any academic outcomes.
+   预置的词汇表（如 IELTS, TOEFL, GRE, BEC, CET-4, CET-6, TEM-4, TEM-8, 高考等）及 AI 生成内容仅供参考。这些词汇表为独立汇编，并非官方考试材料，亦未经任何商标所有者背书。所有商标（如 "IELTS", "TOEFL", "GRE"）均为其各自持有人的财产；VOOOCAB 与这些持有人无任何关联或授权关系。内容可能包含拼写错误、地域差异或 AI 的不准确反馈。许可方不保证其准确性或与官方考试大纲的完全一致，且对任何学业或考试结果不承担责任。
+
+5. PRIVACY AND DATA BACKUP / 隐私与数据备份
+   VOOOCAB is a "local-first" application. All core data processing occurs locally. You are solely responsible for backing up your local data. Licensor is not liable for any data loss. Please refer to the Privacy Policy for details.
+   VOOOCAB 是一款“本地优先”应用。所有核心数据处理均在本地进行。您需全权负责备份本地数据。许可方对任何数据丢失不承担责任。详情请参阅《隐私政策》。
+
+6. MANDATORY UPDATES / 强制更新
+   You must proactively update the Software to the latest version. Licensor is not liable for any issues resulting from the use of an outdated version.
+   您必须主动将本软件升级到最新版本。许可方对因使用旧版本导致的任何问题不承担责任。
+
+7. FULL LEGAL TERMS & THIRD-PARTY COMPONENTS / 完整法律条款与第三方组件
+   The Software includes third-party open-source components governed by their respective licenses (see "third_party_licenses_vooocab.txt"). For provisions regarding Intellectual Property, Disclaimers of Warranties, Limitation of Liability, Indemnification, Export Control, Platform-Specific Terms, and Governing Law & Dispute Resolution, please refer exclusively to the EULA.
+   本软件包含受其各自许可证管辖的第三方开源组件（详见 "third_party_licenses_vooocab.txt"）。关于知识产权、免责声明、责任限制、赔偿、出口管制、平台特定条款以及适用法律与争议解决的规定，请专属参阅 EULA。
+
+Email / 电子邮箱: Voooooocab@gmail.com

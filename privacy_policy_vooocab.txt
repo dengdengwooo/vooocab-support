@@ -1,0 +1,95 @@
+VOOOCAB Privacy Policy
+VOOOCAB 隐私政策
+
+Effective Date: December 17, 2025
+Last Updated: December 17, 2025
+
+生效日期：2025年12月17日
+最新更新日期：2025年12月17日
+
+Welcome to VOOOCAB (hereinafter referred to as the "Software" or "Application"). The Software is developed and operated by [Chunxiang Wang] (hereinafter referred to as "we," "us," or "Developer").
+欢迎您使用 VOOOCAB（以下简称“本软件”或“本应用”）。本软件由 [Chunxiang Wang]（以下简称“我们”或“开发者”）开发并运营。
+
+This Privacy Policy (hereinafter referred to as the "Policy") is intended to explain to you the processing rules related to personal information when you obtain and use the Software through authorized digital distribution channels.
+本《隐私政策》（以下简称“本政策”）旨在向您说明，当您通过授权的数字分发渠道获取并使用本软件时，与个人信息相关的处理规则。
+
+[CORE DECLARATION]: VOOOCAB is a "local-first" desktop application. Within the code scope controllable by the Developer, the Software does not actively collect, store, transmit, or share any of your Personally Identifiable Information (PII). All core data generated during your use of the Software remains on your local device.
+【核心声明】：VOOOCAB 是一款“本地优先”的桌面应用程序。在开发者可控的代码范围内，本软件不会主动收集、存储、传输或共享您的任何个人身份信息（PII）。您在使用本软件过程中产生的所有核心数据均保留在您的本地设备上。
+
+Please read this Policy carefully before using the Software for the first time. By using the Software, you acknowledge that you have fully understood and accepted all the contents of this Policy.
+请您在首次使用本软件前仔细阅读本政策。使用本软件即表示您已充分理解并接受本政策的全部内容。
+
+1. LOCAL STORAGE AND PROCESSING OF INFORMATION / 信息的本地存储与处理
+
+1.1 API Keys and Local Data / API Key 与本地数据
+    The core functionality of the Software (AI-generated English vocabulary books) requires you to provide and input your own Application Programming Interface (API) Key from a third-party Large Language Model (LLM).
+本软件的核心功能（AI 生成英语单词书）需要您自行提供并输入第三方大语言模型（LLM）的 API Key。
+(a) Local Storage: The API Key you input, custom prompts, vocabulary lists, generated project files (.vooocab), and exported PDF files are securely stored only on your local computer's hard drive.
+    本地存储：您输入的 API Key、自定义提示词（Prompts）、单词列表、生成的项目文件（.vooocab）以及导出的 PDF 文件，均仅安全地存储在您的本地计算机硬盘中。
+(b) No-Upload Commitment: We have not set up any cloud servers to receive, sync, or back up your aforementioned local data. We cannot access, read, or control your API Key and project content.
+    不上传承诺：我们没有设立任何云端服务器来接收、同步或备份您的上述本地数据。我们无法访问、读取或控制您的 API Key 及项目内容。
+(c) No Tracking of Token Usage or Costs: The Software does not collect, track, or display your API token usage or associated costs. You are solely responsible for monitoring your own usage and expenses through the third-party AI service provider's platform.
+    不追踪 Token 使用量或费用：本软件不会收集、追踪或显示您的 API Token 使用量或相关费用。您必须自行通过第三方 AI 服务提供商的平台来监控您的使用情况和费用。
+
+1.2 Runtime Logs / 运行日志
+    For troubleshooting purposes, the Software may generate runtime logs or crash reports locally on your device. These logs exist only on your local device. Unless you actively choose to send them to us via email or a third-party code hosting platform (e.g., GitHub Issues), we cannot access this information.
+    为了排查故障，本软件可能会在您的设备本地生成运行日志或崩溃报告。这些日志仅存在于您的本地设备中。除非您主动选择通过电子邮件或第三方代码托管平台（如 GitHub Issues）将其发送给我们，否则我们无法获取这些信息。
+
+2. THIRD-PARTY SERVICES AND DATA TRANSMISSION (IMPORTANT WARNING) / 第三方服务与数据传输（重要警告）
+
+As a local tool, the Software communicates with the third-party AI services you specify based on your instructions.
+本软件作为一个本地工具，会根据您的指令与您指定的第三方 AI 服务进行通信。
+
+2.1 Communication with AI Service Providers / 与 AI 服务提供商的通信
+    When you click "Generate" or similar functions, the Software will send your API Key, prompts, and vocabulary lists directly to your configured third-party AI service provider (e.g., DeepSeek, Alibaba Cloud, etc.) via your local network.
+    当您点击“生成”或类似功能时，本软件会通过您的本地网络，将您的 API Key、提示词和单词列表直接发送至您所配置的第三方 AI 服务提供商（如 DeepSeek、阿里云等）。
+[DISCLAIMER AND WARNING]:
+【免责与警告】：
+(a) Do Not Input Sensitive Information: Please do not input any personal sensitive information, trade secrets, or other protected privacy data in the prompts or vocabulary lists.
+    请勿输入敏感信息：请不要在提示词或单词列表中输入任何个人敏感信息、商业机密或其他受保护的隐私数据。
+(b) Third-Party Policy Constraints: By using the Software, you acknowledge and agree that your prompts and data are sent directly to the third-party AI service provider you configured. The collection, use, and storage of that data (including whether it is used for AI model training) will be entirely governed by that provider's privacy policy. Because the Software operates locally, you assume all risks associated with transmitting data to these third parties. We assume no legal liability whatsoever for the data processing practices of any third-party service providers.
+    第三方政策约束：使用本软件即表示您承认并同意，您的提示词和数据将直接发送至您配置的第三方 AI 服务提供商。其数据的收集、使用、存储（包括是否被用于 AI 模型训练）将完全受该提供商的隐私政策约束。由于本软件在本地运行，您需自行承担将数据传输至这些第三方的所有风险。我们对任何第三方服务提供商的数据处理行为不承担任何法律责任。
+
+2.2 Cross-Border Data Transfer / 跨境数据传输
+    Because you may configure AI service APIs located in different countries or regions, your data may be subject to cross-border transmission. Such cross-border transmission is actively initiated by you on your local device, and you must independently assess and bear the compliance risks associated with such data export.
+    由于您可能配置位于不同国家或地区的 AI 服务 API，您的数据可能会发生跨境传输。此种跨境传输是由您在本地设备上主动发起的，您需要自行评估并承担相关数据出境的合规风险。
+
+2.3 Data Collection by Distribution Platforms / 分发平台的数据收集
+    When you download, purchase, or update the Software via third-party digital storefronts or distribution platforms, the platform owners (such as device manufacturers or store operators) may collect your device information, purchase history, and basic usage statistics in accordance with their respective privacy policies. We can only obtain anonymized and aggregated statistical data (such as total downloads) from these platforms and cannot access your personally identifiable information. We are not responsible for the data collection practices of these platforms.
+    当您通过第三方数字商店或分发平台下载、购买或更新本软件时，该平台的所有者（如设备制造商或商店运营商）可能会依据其各自的隐私政策收集您的设备信息、购买记录和基础使用统计数据。我们仅能从这些平台获取匿名化和汇总后的统计数据（如总下载量），无法获取您的个人身份信息。我们不对这些平台的数据收集行为负责。
+
+3. YOUR RIGHTS AND DATA CONTROL / 您的权利与数据控制
+
+Because the Software does not collect your personal data, you have absolute and complete control over your own data:
+由于本软件不收集您的个人数据，您对自己的数据拥有绝对的、完全的控制权：
+
+(a) Access and Modification: You can view or modify your API Key and project content within the Software interface at any time.
+    访问与修改：您可以随时在软件界面内查看或修改您的 API Key 和项目内容。
+(b) Deletion and Withdrawal: You can clear your API Key within the Software at any time, or completely delete all files generated by the Software in your local file system. Uninstalling the Software will terminate all local data processing activities.
+    删除与撤回：您可以随时在软件内清空 API Key，或在本地文件系统中彻底删除本软件生成的所有文件。卸载本软件即可终止所有本地数据处理活动。
+
+4. PROTECTION OF MINORS / 未成年人保护
+
+The Software is primarily intended for users with the corresponding capacity for civil conduct. If you are a minor under the age of 14 (or other minimum age of digital consent as defined by your jurisdiction, such as 16 under the GDPR or 13 under COPPA), please read this Policy accompanied by your legal guardian and use the Software only after obtaining your guardian's consent. Because the Software runs entirely locally and does not collect any personal information, we cannot and do not attempt to verify the age of our users. Parents or legal guardians are solely responsible for supervising minors' use of the Software and any configured third-party AI APIs. We strongly advise minors not to input any personal information when using the Software.
+本软件主要面向具备相应民事行为能力的用户。如果您是未满 14 周岁（或您所在司法管辖区规定的其他法定数字同意年龄/儿童界限，如 GDPR 规定的 16 周岁，COPPA 规定的 13 周岁）的未成年人，请在法定监护人的陪同下阅读本政策，并在取得监护人同意后使用本软件。由于本软件完全在本地运行且不收集任何个人信息，我们无法也未试图验证用户的年龄。家长或法定监护人应全权负责监督未成年人对本软件及任何配置的第三方 AI API 的使用。我们强烈建议未成年人不要在使用本软件时输入任何个人信息。
+
+5. LEGAL COMPLIANCE AND ROLE DEFINITION / 法律合规与角色界定
+
+(a) EU GDPR: Because the Software runs locally and we do not collect your personal data, under the GDPR framework, we are neither a "Data Controller" nor a "Data Processor." You are the sole controller of your local data.
+    欧盟 GDPR：由于本软件在本地运行且我们不收集您的个人数据，在 GDPR 框架下，我们既不是“数据控制者（Data Controller）”，也不是“数据处理者（Data Processor）”。您是您本地数据的唯一控制者。
+(b) China PIPL: We strictly comply with the "minimum necessary" principle of the Personal Information Protection Law (PIPL) and have not embedded any code in the Software that actively collects personal information.
+    中国 PIPL：我们严格遵守《个人信息保护法》的“最小必要”原则，未在软件中植入任何主动收集个人信息的代码。
+(c) US CCPA/CPRA: We do not collect your personal information, and therefore we absolutely do not sell or share your personal information.
+    美国 CCPA/CPRA：我们不收集您的个人信息，因此绝对不会出售或共享您的个人信息。
+
+6. AMENDMENTS TO THE POLICY / 政策的修订
+
+We reserve the right to modify this Privacy Policy at any time. If there are material changes to this Policy, we will publish the updated version in the Software's Release Notes, on our official website, or in our GitHub repository. Your continued use of the Software after the Policy has been updated constitutes your agreement to be bound by the revised Policy.
+我们保留随时修改本隐私政策的权利。如果本政策发生重大变更，我们将在软件更新日志（Release Notes）、官方网站或 GitHub 仓库中发布更新后的版本。您在政策更新后继续使用本软件，即视为您同意受修订后政策的约束。
+
+7. CONTACT US / 联系我们
+
+If you have any questions, comments, or need to report security issues regarding this Privacy Policy, please contact us at:
+如果您对本隐私政策有任何疑问、意见或需要报告安全问题，请通过以下方式与我们联系：
+
+Email / 电子邮箱: Voooooocab@gmail.com
